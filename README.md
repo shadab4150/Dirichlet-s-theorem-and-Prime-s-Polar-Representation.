@@ -1,9 +1,11 @@
 # Dirichlet's theorem and Prime's Polar Representation.
-![kd](https://i.ibb.co/DQRw2Lq/newplot-13.png)
 ## How pretty but pointless patterns in polar plot of primes prompt pretty important ponderings on properties of those primes.
+### The first 500 primes.
+![kd](https://i.ibb.co/DQRw2Lq/newplot-13.png)
+### The first 5000 primes.
 ![kd](https://i.ibb.co/VmRS4Lx/newplot6.png)
 
-## How pretty but pointless patterns in polar plot of primes prompt pretty important ponderings on properties of those primes.
+
 
 * In number theory, Dirichlet's theorem, also called the Dirichlet prime number theorem, states that for any two positive coprime integers a and d, there are infinitely many primes of the form a + nd, where n is also a positive integer. In other words, there are infinitely many primes that are congruent to a modulo d. The numbers of the form a + nd form an arithmetic progression
 
